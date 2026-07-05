@@ -1,0 +1,1 @@
+The Project is about reading contents of a website and making an API call to summarize the website contents
